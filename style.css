@@ -1,0 +1,82 @@
+.main-class {
+    border: 3px solid green;
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+}
+.up-flex,
+.down-flex {
+    margin: 10px;
+    border: 3px solid blue;
+    background-color: lightblue;
+    flex-direction: row;
+    display: flex;
+}
+.be-flexie {
+    display: flex;
+    flex-direction: row;
+    border: 3px solid orange;
+    background-color: peachpuff;
+    margin: 10px;
+    height: 60px;
+    width: 33%;
+}
+.inside-oben {
+    border: 3px solid red;
+    background-color: lightcoral;
+    margin: 3px;
+    padding: 3px;
+    height: 70%;
+    width:  50%;
+}
+.lila {
+    display: flex;
+    flex-direction: row;
+    border: 3px solid rgb(84, 103, 156);
+    background-color: lightsteelblue;
+    margin: 10px;
+    height: 60px;
+    width: 30%;
+}
+.klein-orange {
+    border: 3px solid orange;
+    background-color: peachpuff;
+    height: 60px;
+    margin: 10px;
+    width: 20%;
+}
+.mid-flex {
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    
+}
+.red-big {
+    border: 3px solid rgb(172, 11, 11);
+    background-color: rgb(255, 157, 157);
+    margin: 10px;
+    height: 90%;
+    width: 50%;
+}
+.for-tha-smalls {
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    width: 50%;
+}
+.kleiner1 {
+    border: 3px solid rgb(172, 11, 11);
+    background-color: rgb(255, 157, 157);
+    height: 50%;
+    margin: 10px;
+    margin-bottom: 7px;
+    margin-left: 5px;
+}
+.kleiner2 {
+    border: 3px solid rgb(172, 11, 11);
+    background-color: rgb(255, 157, 157);
+    height: 50%;
+    margin: 10px;
+    margin-top: 7px;
+    margin-left: 5px;
+}
