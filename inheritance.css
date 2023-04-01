@@ -1,0 +1,13 @@
+body { 
+    color: white;
+    background-color: black;
+    font-size: 150px;
+}
+.container {
+    display: flex;
+    border: 3px solid red;
+}
+.container div {
+    flex: 1;
+    border: solid 5px green;
+}

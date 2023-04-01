@@ -20,6 +20,7 @@
     margin: 10px;
     height: 60px;
     width: 33%;
+    flex: 1;
 }
 .inside-oben {
     border: 3px solid red;
@@ -30,7 +31,6 @@
     width:  50%;
 }
 .lila {
-    display: flex;
     flex-direction: row;
     border: 3px solid rgb(84, 103, 156);
     background-color: lightsteelblue;
