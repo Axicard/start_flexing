@@ -5,9 +5,10 @@ body {
 }
 .container {
     display: flex;
-    border: 3px solid red;
+    width: 80%;
+    margin: auto;
 }
 .container div {
     border: solid 5px red;
-    flex: 1;
+    flex: 1 1 0;
 }
